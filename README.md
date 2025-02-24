@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FiifiLite
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently learning Data Science and Engineering
 - 💞️ I’m looking to collaborate on industires
 - 📫 How to reach me is through my Email: Sekyithomas4@outlook.com
 - 😄 Pronouns: He
